@@ -1,0 +1,5 @@
+this repo is public and contains my source code for Digital Libaries final project for Prof. Wei's Class
+
+i am using python image libary (PIL), this has several dependencies that must be installed to work properly
+at minimum support for jpeg, png, tiff, gif must be up to date. PIL should be installed in your python interpreter in order for this to work properly. view the README in the PIL directory (also in this repository) for more detailed instructions
+
